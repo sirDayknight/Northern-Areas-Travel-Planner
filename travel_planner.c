@@ -594,7 +594,7 @@ int main(void)
     int choice;
 
     loadTrips();
-    printf("\n\t\t\t\t\t *** %s ***\n\t\t\t\t\t Har safar ki apni kahani\n", COMPANY);
+    printf("\n\t\t\t*** %s ***\n\t\t\tHar safar ki apni kahani\n", COMPANY);
 
     do {
         title("NORTHERN AREAS TRAVEL PLANNER");
